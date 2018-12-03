@@ -1,0 +1,21 @@
+{
+  "name": "Dreamapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "karthik",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "mqtt": "^2.15.1",
+    "restify": "^6.3.4",
+    "xhr": "^2.4.1"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "standard": "^10.0.3"
+  }
+}
